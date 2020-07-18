@@ -1,5 +1,2 @@
 # Golang Variables
 
-
-## 
-
